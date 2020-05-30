@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+header{
+    width: 70%;
+    margin: 0 auto;
+    color: red;
+}
+
+h2{
+    color: red;
+}
+
+section{
+    width: 70%;
+    margin: 0 auto;
+}
+
+ol{
+    color: red;
+}
+
+body{
+    background-color: rgb(240, 225, 194);
+}
